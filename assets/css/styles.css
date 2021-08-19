@@ -337,7 +337,7 @@ hr {
 }
 #content .hard hr{
     width: 300px;
-    margin-left: 180px;
+    margin-left: 85px;
 }
 #content .hard .content-hard_group{
     display: flex;
@@ -367,6 +367,9 @@ hr {
 
 #content .hard .content-hard_img{
     width: 35%;
+    
+}
+#content .hard .content-hard_img img{
     background-size: cover;
     background-repeat: no-repeat;
     object-fit: cover;
